@@ -54,7 +54,7 @@
 
 ## ✍️ Recent Projects
 - 🏥 **Doctor Appointment System** in ASP.NET MVC + MSSQL
-- 🏨 **Hostel Booking System** with Core Java and JSP
+- 🏨 **Hostel Booking System** with Java, Spring Boot and MSSQL
 - 📊 **Admin Dashboard** with role-based authentication and reports
 
 ---
