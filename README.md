@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kalai — Full Stack Developer
+# 👋 Hi, I'm Kalai — Software Developer
 
 🔭 Currently working on **Microservices** and **.NET Core Projects**  
 🌱 Learning **Microservices**, **Azure Cloud**, and **DevOps Tools**  
