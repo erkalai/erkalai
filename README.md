@@ -48,8 +48,8 @@
 
 ## 📈 GitHub Stats
 
-![Kalai’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalai-v&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalai-v&layout=compact&theme=github_dark)
+![Kalai’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkalai&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkalai&layout=compact&theme=github_dark)
 
 ---
 
