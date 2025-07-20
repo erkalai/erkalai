@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kalai — Software Developer
 
-🔭 Currently working on **Microservices** and **.NET Core Projects**  
+🔭 Currently working on **Microservices** and **.NET Projects**  
 🌱 Learning **Microservices**, **Azure Cloud**, and **DevOps Tools**  
 💬 Ask me about **Java, Spring Boot, .NET Core, Entity Framework, React, SQL**  
 📫 Reach me at **[er.kalai.v@gmail.com](mailto:er.kalai.v@gmail.com)**
@@ -10,7 +10,6 @@
 ## 🔗 Connect with Me
 
 <a href="mailto:er.kalai.v@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://wa.me/9715368722"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 ---
 
